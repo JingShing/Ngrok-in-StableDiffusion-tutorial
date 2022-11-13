@@ -6,7 +6,7 @@ A tutorial for enable ngrok in stable diffusion
 Ngrok can help you generate a public url for sharing your stable diffusion webui for other device.
 ## How to enable Ngrok in stable diffusion webui
 ### Windows user
-* edit your webui-user.bat
+* edit your ```webui-user.bat```
 
 * get the [authtoken from ngrok](https://dashboard.ngrok.com/get-started/your-authtoken). If you don't have ngrok account you can register [here](https://ngrok.com/).
   * ![authtoken](sample/authtoken.png)
