@@ -4,6 +4,12 @@ A tutorial for enable ngrok in stable diffusion
 
 ## Why you need to enable Ngrok in stable diffusion
 Ngrok can help you generate a public url for sharing your stable diffusion webui for other device.
+## [Tutorial Video](https://youtu.be/Dgcz315UjbM)
+You can click the image below to watch the [tutorial video](https://youtu.be/Dgcz315UjbM).
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Dgcz315UjbM" target="_blank">
+ <img src="http://img.youtube.com/vi/Dgcz315UjbM/mqdefault.jpg" alt="Watch the video"/>
+</a>
+
 ## How to enable Ngrok in stable diffusion webui
 ### Windows user
 * edit your ```webui-user.bat```
