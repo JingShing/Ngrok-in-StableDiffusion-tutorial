@@ -1,4 +1,4 @@
-English | [繁體中文](README_TCH)
+English | [繁體中文](README_TCH.md)
 # Ngrok-in-StableDiffusion-tutorial
 A tutorial for enable ngrok in stable diffusion
 
