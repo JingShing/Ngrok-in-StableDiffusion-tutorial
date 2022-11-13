@@ -4,6 +4,14 @@
 
 ## 為什麼你需要使用 Ngrok
 Ngrok 可以幫助你生成一個公開網址分享你的 stable diffusion webui 可以在不同裝置上使用，也可以分享給其他人。
+
+## [教學影片](https://youtu.be/Dgcz315UjbM)
+你可以點擊下方圖片觀看[教學影片](https://youtu.be/Dgcz315UjbM)。
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Dgcz315UjbM" target="_blank">
+ <img src="http://img.youtube.com/vi/Dgcz315UjbM/mqdefault.jpg" alt="Watch the video"/>
+</a>
+
 ## 如何在 stable diffusion webui 開啟 Ngrok
 ### Windows 使用者
 * 編輯你的 ```webui-user.bat```
