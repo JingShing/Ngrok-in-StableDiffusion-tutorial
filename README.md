@@ -24,4 +24,10 @@ if you need account system use this
   * ![pw](sample/pw.png)
 ---
 * After edit and save bat file. Just run the bat. Remeber to use the latest ngrok.py to run it successfully.
-  * 
+  * if it successfully activate it will show this.
+    * ![success](sample/ngrok_hint.png)
+  * if you failed may see this.
+    * ![fail](sample/fail.png)
+    * pleaze check if you use the latest verion of [ngrok.py](modules/ngrok.py). Or the right format of ```COMMANDLINE_ARGS=--ngrok authtoken:username:password```. Or use the wrong authtoken.
+    
+* If you successfully activate. Open the url it gave you.
