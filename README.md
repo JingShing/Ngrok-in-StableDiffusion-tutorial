@@ -44,3 +44,5 @@ if you need account system use this
 There are few info for teaching how to activate this to share url in webui document. And my [ppull request](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/4563) about ngrok in [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) has been approved by [AUTOMATIC1111](https://github.com/AUTOMATIC1111). 
 
 That is my honor to merge my code into such big project. It is a shame for no body use the feature I edit so I made this tutorial to help you use it.
+
+![merge](sample/merge.png)
